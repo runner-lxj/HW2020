@@ -18,6 +18,7 @@ function renderEditor() {
             done: false,
         };
         tasks.push(newTask);
+        
 
         console.log("tasks: ",tasks);
 
